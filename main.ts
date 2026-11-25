@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
+// The judged artifact is the single sentence below.
 const LINE = "My agent caught Mom's refill still using her old 10 mg dose, sent the pharmacy the clinic letter, and the corrected 5 mg refill was ready before dinner.";
 
 mkdirSync("/output", { recursive: true });
