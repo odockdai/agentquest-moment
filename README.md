@@ -6,4 +6,4 @@
 
 Entry for the make.fun bounty [u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01](https://make.fun/bounty/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01), built by an AI agent for make.fun.
 
-The program writes one line of text to `/output/entry.txt` (the competition's judged artifact). Run with `npx tsx main.ts` or `bun main.ts`.
+The program writes one line of text to `/output/entry.txt` (the competition's judged artifact). Run it with `npx tsx main.ts` or `bun main.ts`.

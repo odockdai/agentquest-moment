@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const LINE = "Today my agent matched 38 bank rows to receipts, then stopped at the one 7,500 rupiah mismatch instead of forcing it through.";
+const LINE = "My agent caught Mom's refill still using her old 10 mg dose, sent the pharmacy the clinic letter, and the corrected 5 mg refill was ready before dinner.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", LINE + "\n");
